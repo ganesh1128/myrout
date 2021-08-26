@@ -6,7 +6,7 @@ import Users from "./Users";
 import Product from "./Product";
 import CreateUser from "./CreateUser";
 import ProductCreate from "./product-create";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import EditUser from "./EditUser";
 import { UserProvider } from "./userContext";
 import ProductEdit from "./product-edit";

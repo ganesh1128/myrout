@@ -9,7 +9,7 @@ function CreateUser(props) {
   const [age, setAge] = useState("");
   const [startDate, setStartdate] = useState("");
   const [salary, setSalary] = useState("");
-{/******************************/} 
+
   const userContext = useContext(UserContext);
   const history = useHistory()
  

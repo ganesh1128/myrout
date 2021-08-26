@@ -1,9 +1,9 @@
-import React,{useContext} from "react";
-import UserContext from "./userContext";
+import React from "react";
+// import UserContext from "./userContext";
 
 
 function Dashboard() {
-  const userContext = useContext(UserContext);
+  // const userContext = useContext(UserContext);
   return (
   
     <div>

@@ -18,6 +18,7 @@ useEffect(() => {
    setAge(userData.age);
    setStartdate(userData.startDate);
    setSalary(userData.salary);
+   // eslint-disable-next-line
 }, [])
 
 
